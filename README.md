@@ -9,7 +9,7 @@ bundle install
 bundle exec rackup
 ```
 
-Browse application from http://localhost:9292/. It will rebuild on changes.
+Browse application from [](http://localhost:9292/). It will rebuild on changes.
 
 Build the source manually
 --------------------------------------------------------------------------------
