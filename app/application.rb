@@ -2,13 +2,7 @@ require 'opal'
 require 'native'
 require 'clearwater'
 
-class Layout
-  include Clearwater::Component
-
-  def render
-    h1('hello world')
-  end
-end
+require_tree '.'
 
 class Application
 
