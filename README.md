@@ -1,4 +1,4 @@
-Opal WebApp template
+Opal WebApp Template
 ================================================================================
 
 Getting started
